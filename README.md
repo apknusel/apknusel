@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=%F0%9F%91%8B+Hi+I'm+Alex;%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%8F%9E%EF%B8%8F+I+like+to+hike;and+build+Software!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=006AFF&width=435&lines=%F0%9F%91%8B+Hi+I'm+Alex;%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%8F%9E%EF%B8%8F+I+like+to+hike;and+build+Software!" alt="Typing SVG" /></a>
 
 ## 📖 About Me
 - Passionate about all areas of computer security, with a special focus on web security
