@@ -44,4 +44,4 @@ Who is Alex Knusel? One important piece of information is that he owns 8 pet mon
 ___
 #### [LinkedIn](https://www.linkedin.com/in/apknusel/) - [Email](mailto:apknusel@yahoo.com)
 
-<div class="meta_for_parser tablespecs" style="visibility:hidden">{test}</div>
+<script>{test}</script>
