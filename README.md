@@ -25,11 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40" />&nbsp;
 </div>
 
-## 🤓 GitHub Stats
-<img src="https://komarev.com/ghpvc/?username=apknusel&label=Profile%20views&color=006aff&style=flat" alt="apknusel" />
-
-![Apknusel's GitHub stats](https://github-readme-stats.vercel.app/api?username=apknusel&show_icons=true&theme=transparent)
-
 ___
 
 #### [LinkedIn](https://www.linkedin.com/in/apknusel/) - [Email](mailto:apknusel@yahoo.com)
